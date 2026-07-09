@@ -17,7 +17,7 @@ import com.sak.repository.ProductRepository;
 import com.sak.repository.UserRepository;
 import com.sak.service.ProductService;
 
-import jakarta.servlet.annotation.MultipartConfig;
+import jakarta.servlet.annotation.MultipartConfig
 
 @Controller
 @MultipartConfig
